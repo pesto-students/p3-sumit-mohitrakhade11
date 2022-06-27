@@ -1,0 +1,17 @@
+:root {
+    --bg-dark: rgb(69, 69, 69);
+    --bg-blue: rgb(67, 104, 155);
+  }
+  /* side navigation bar */
+aside {
+    float: left;
+    width: 1rem;
+  }
+  .aside-icon {
+    font-size: 2rem;
+    margin: 1.4rem 0.5rem;
+  }
+  .icon {
+    display: block;
+  }
+  /* header */
