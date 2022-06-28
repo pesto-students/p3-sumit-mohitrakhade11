@@ -2,6 +2,12 @@
     --bg-dark: rgb(69, 69, 69);
     --bg-blue: rgb(67, 104, 155);
   }
+  body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+  }
   /* side navigation bar */
 aside {
     float: left;
